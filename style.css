@@ -1,0 +1,180 @@
+
+#topbar
+{
+    margin-left: 225px;
+    background-color: black;
+    height: 15px;
+    width: 70%;
+}
+body
+{
+    background-color: white;
+}
+#container
+{
+    height: 700px;
+    width: 70%;
+    margin: 0px auto;
+}
+#header
+{
+    height: 80px;
+    background-color: antiquewhite;
+}
+#header img
+{
+    height: 80px;
+    background-color: antiquewhite;
+}
+#header ul
+{
+    float: right;
+    margin-top: 40px;
+}
+#header ul li
+{
+    display: inline;
+    margin-right: 30px;
+}
+#header ul li a
+{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+#header ul li a:hover{
+    color: lightblue;
+    transition: 0.3s;
+}
+#banner img
+{
+    width: 100%;
+    margin-bottom: 25px;
+    
+}
+#content1
+{
+    height: 350px;
+    width: 32%;
+    background-color: red;
+    float: left;
+}
+#content2
+{
+    margin-left: 20px;
+    height: 350px;
+    width: 32%;
+    background-color: skyblue;
+    float: left;
+}
+#content3
+{
+    height: 350px;
+    width: 32%;
+    background-color: green;
+    float: right;
+}
+.heading
+{
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+
+}
+.para
+{
+    margin-left: 20px;
+    margin-right: 8px;
+    color: white;
+    font-size: 15px;
+}
+.more
+{
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+    background-color: white;
+    padding: 8px;
+}
+.more:hover {
+    color: orange;
+    background-color: black;
+}
+#bottom1
+{
+    margin-top: 15px;
+    width: 70%;
+    float: left;
+}
+#bottom2
+{
+    margin-top: 15px;
+    width: 30%;
+    float: right;
+}
+#bottom1 h5
+{
+    margin-left: 20px;
+    margin-right: 8px;
+    color: black;
+    font-size: 25px;
+}
+#bottom1 p
+{
+    color: black;
+    margin-left: 20px;
+    margin-right: 8px;
+}
+#bottom1 a
+{
+    color: blueviolet;
+    margin-left: 20px;
+    margin-right: 8px;
+}
+#bottom1 a:hover {
+    color: black;
+}
+#bottom2 h6
+{
+    color: black;
+    font-size: 25px;
+}
+#bottom2 img
+{
+    width: 100%;
+}
+#footer
+{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    clear: both;
+}
+#footer ul
+{
+    float: left;
+    margin-top: 40px;
+}
+#footer ul li
+{
+    display: inline;
+    margin-right: 30px;
+}
+#footer ul li a
+{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+#footer ul li a:hover {
+    color: lightblue;
+}
+#footer p
+{
+    float: right;
+    color: white;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+
+
